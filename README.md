@@ -22,16 +22,16 @@ Looking at the Total Summary, the variance is below 100 at 62.29 and meets expec
 
 ## T-Tests on Suspension Coils
 
-All Lots T-Test
+### All Lots T-Test
 ![](images/cumulative_t_test.png)
 
-Lot 1 T-Test
+### Lot 1 T-Test
 ![](images/lot1_ttest.png)
 
-Lot 2 T-Test
-![](images/lot2_ttesttest.png
+### Lot 2 T-Test
+![](images/lot2_ttest.png)
 
-Lot 3 T-Test
-![](images/lot3_ttesttest.png)
+### Lot 3 T-Test
+![](images/lot3_ttest.png)
 
 ## Study Design: MechaCar vs Competition
