@@ -25,6 +25,8 @@ Looking at the Total Summary, the variance is below 100 at 62.29 and meets expec
 ### All Lots T-Test
 ![](images/cumulative_t_test.png)
 
+Looking at the T-Test for all lots it's apparent that the coils from all lots aren't statistically significant. This is because the P-Value is at 0.06028 which isn't low enough to reject the Null Hypothesis.
+
 ### Lot 1 T-Test
 ![](images/lot1_ttest.png)
 
