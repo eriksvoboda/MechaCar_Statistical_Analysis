@@ -61,3 +61,7 @@ MechaCar's average yearly maintenance cost is statistically lower than the compe
 ### Statistical Test Used
 
 For this study, the best statistical test would be the two-sample t-test because we are testing for the difference between the distribution from two samples but for one variable. 
+
+### What data is needed
+
+For the study we would need to collect the average maintenance cost of all MechaCars across the timespan of a year, along with all major competitor's maintenance costs.
