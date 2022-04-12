@@ -57,3 +57,7 @@ MechaCar's average yearly maintenance cost is similar to competitor's vehicles.
 ### Alternative Hypothesis
 
 MechaCar's average yearly maintenance cost is statistically lower than the competition.
+
+### Statistical Test Used
+
+For this study, the best statistical test would be the two-sample t-test because we are testing for the difference between the distribution from two samples but for one variable. 
