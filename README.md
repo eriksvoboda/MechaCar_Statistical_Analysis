@@ -43,3 +43,17 @@ With a P-Vlaue of 0.607 Lot 2 is still slightly too high of a P-Vlaue to reject 
 Lot 3 has a P-Vlaue of 0.04168 which is just below 0.05 and using a confidence level of 95 percent meaning the results are statistically significant and we can reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
+
+Multiple factors must be taken into account when considering to purchase a car. In today's environment of rapidly increasing inflation spiking fuel prices, and overall increases in cost of living consumers will be looking for a car with low maintenance cost. 
+
+### Metric to Test
+
+In this study we'll analyze MechaCar's average yearly maintenance cost in comparison to the competition.
+
+### Null Hypothesis
+
+MechaCar's average yearly maintenance cost is similar to competitor's vehicles.
+
+### Alternative Hypothesis
+
+MechaCar's average yearly maintenance cost is statistically lower than the competition.
