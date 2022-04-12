@@ -12,6 +12,8 @@ The slope can't be considered to be zero. This is because the P-Value is so low 
 
 The r-squared value is at 0.7149 meaning the linear regression model is 71% accurate. Meaning there are more than likely other variables that are significant. So the model is somewhat effective however it could be improved.
 
+![](images/deliv1.png)
+
 ## Summary Stats on Suspension Coils
 
 ### Total Summary
