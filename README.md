@@ -20,4 +20,14 @@ The r-squared value is at 0.7149 meaning the linear regression model is 71% accu
 
 Looking at the Total Summary, the variance is below 100 at 62.29 and meets expectations. However Lot 3 has a variance of 170.28 which is greater than the limit of 100. This means Lot 3 does not meet the design specification. 
 
+## T-Tests on Suspension Coils
+
+All Lots T-Test
+
+Lot 1 T-Test
+
+Lot 2 T-Test
+
+Lot 3 T-Test
+
 ## Study Design: MechaCar vs Competition
