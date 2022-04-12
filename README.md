@@ -30,10 +30,16 @@ Looking at the T-Test for all lots it's apparent that the coils from all lots ar
 ### Lot 1 T-Test
 ![](images/lot1_ttest.png)
 
+With a P-Vlaue of 1 Lot 1 is not statistically significant enough to reject the null hypothesis. 
+
 ### Lot 2 T-Test
 ![](images/lot2_ttest.png)
 
+With a P-Vlaue of 0.607 Lot 2 is still slightly too high of a P-Vlaue to reject the null hypothesis. 
+
 ### Lot 3 T-Test
 ![](images/lot3_ttest.png)
+
+Lot 3 has a P-Vlaue of 0.04168 which is just below 0.05 and using a confidence level of 95 percent meaning the results are statistically significant and we can reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
