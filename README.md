@@ -15,6 +15,8 @@ The r-squared value is at 0.7149 meaning the linear regression model is 71% accu
 ![](images/deliv1.png)
 
 ## Summary Stats on Suspension Coils
+![](images/total_summary.png)
+![](images/lot_summary.png)
 
 ### Total Summary
 
